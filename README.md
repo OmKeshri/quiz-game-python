@@ -8,7 +8,7 @@ __Welcome to the Quiz Game! This Python-based quiz game is an interactive and fu
 - __Interactive Gameplay__: User-friendly interface for answering quiz questions.
 - __Scoring System__: Track your score as you play to see how well you perform.
 
-##Installation
+## Installation
 1. Clone the repository `https://github.com/OmKeshri/quiz-game-python.git`
 2. Navigate to the project directory `cd quiz game`
 3. Install the required libraries `pip install pygame`
